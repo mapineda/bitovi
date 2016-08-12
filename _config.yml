@@ -10,9 +10,9 @@ locale                   : "en"
 title                    : "Bitovi"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "Stellar Design, Development, & Training"
+description              : "Stellar  Design, Development, & Training"
 url                      : 'https://mapineda.github.io'
-baseurl                  : "/bitovi"
+baseurl                  : "/"
 repository               : "mapineda/bitovi"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)

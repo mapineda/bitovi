@@ -1,10 +1,10 @@
 {
-  "name": "minimal-mistakes",
+  "name": "bitovi",
   "version": "3.4.2",
   "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/mapineda/bitovi.git"
   },
   "keywords": [
     "jekyll",
@@ -14,9 +14,9 @@
   "author": "Michael Rose",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/mapineda/bitovi/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://mapineda.github.io/bitovi/",
   "engines": {
     "node": ">= 0.10.0"
   },
