@@ -11,11 +11,11 @@
     }
     [class^="col-"] {
         @include breakpoint(small) {
-            display: flex; 
+            display: flex;
         }
     }
     .icon {
         font-size: 1.5rem;
-        color: $colorPrimary;
+        color: #d6383e;
     }
 }
