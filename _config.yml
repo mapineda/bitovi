@@ -1,25 +1,25 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: Bitovii | Dental Jekyll Theme
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: svg/logo1.svg
 
 # Hero
-hero: 
-    hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+hero:
+    hero_img: hero.jpeg
+    hero_title: Bitovii
+    hero_description: Design, Development, Training
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: 512 555 555
+    emergency:
+    email: hire@yoursite.com
+    address: A distributed collective of creators, <br> All across the world.
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -34,7 +34,7 @@ testimonials:
 map:
     zoom: 17
     address: Von schroeders 273, Viña del mar, Chile
-    address_details: svg/min/logo.svg
+    address_details: svg/min/logo1.svg
 
 # Social settings
 facebook: http://facebook.com
@@ -42,10 +42,10 @@ twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
 skype: skype:obaez_design?userinfo
-feed: yes
+feed: no
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2015 Bitovii - All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -61,5 +61,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics:
 google_verification:
