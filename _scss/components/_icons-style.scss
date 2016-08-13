@@ -12,10 +12,10 @@
     width: 2.3rem;
     height: 2.3rem;
     padding: 5px 0;
-    border: solid 2px #d6383e;
+    border: solid 2px $colorPrimary;
     text-align: center;
     .icon {
-        color: #d6383e;
+        color: $colorPrimary;
         font-size: 1.5rem;
     }
 }

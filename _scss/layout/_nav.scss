@@ -25,19 +25,19 @@
 
 .navbar-default .navbar-nav>li>a:hover {
     color: $white;
-    background: lighten(#d6383e, 2%);
+    background: lighten($colorPrimary, 2%);
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: $white;
-    background: darken(#d6383e, 5%);
+    background: darken($colorPrimary, 5%);
 }
 
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    background: #d6383e;
+    background: $colorPrimary;
 }
 
 .navbar-default .navbar-toggle:hover,
