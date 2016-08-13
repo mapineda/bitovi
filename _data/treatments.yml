@@ -1,0 +1,23 @@
+- icon: icon-trophy
+  title: Logo & Branding
+  description: Our graphic designers are top notch and will help in any design process.
+
+- icon: icon-diamond
+  title: Technical Training
+  description: Bitovii will bring the classroom to you. Face-to-face teaching without having to worry about the logistics or cost of travel.
+
+- icon: icon-flask
+  title: Innovative Tech
+  description: We use the latest frameworks for your development process.
+
+- icon: icon-globe
+  title: Iterative Design
+  description: Good design is iterative for quick decision making.
+
+- icon: icon-ambulance
+  title: Application Architecture
+  description: Establishing great code foundations allows for faster development and protects you from ever-changing application requirements.
+
+- icon: icon-briefcase
+  title: Front End Development
+  description: Expert HTML, CSS and JavaScript consultants will build your web application from the ground up.
