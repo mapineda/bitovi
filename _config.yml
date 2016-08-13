@@ -1,8 +1,8 @@
 # Site settings
-title: Bitovii | Dental Jekyll Theme
+title: Bitovii | Design, Development, Training
 description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+baseurl: "/bitovi" # the subpath of your site, e.g. /blog
+url: "mapineda.github.io" # the name of your domain
 logo_url: svg/logo1.svg
 
 # Hero
